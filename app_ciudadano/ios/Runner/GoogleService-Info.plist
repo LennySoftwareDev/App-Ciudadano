@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>443742081795-rvsn8uegdnestqtrrt7ov7mvbtstkjci.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.443742081795-rvsn8uegdnestqtrrt7ov7mvbtstkjci</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5mN8-zOMNlmqfG536cbrTSQVFwS1h46Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>443742081795</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appCiudadano</string>
+	<key>PROJECT_ID</key>
+	<string>appciudadano-5443c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>appciudadano-5443c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:443742081795:ios:5cbd1372771ad641c68f36</string>
+</dict>
+</plist>

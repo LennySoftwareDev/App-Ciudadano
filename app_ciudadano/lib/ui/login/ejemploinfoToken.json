@@ -1,0 +1,69 @@
+{
+    "UsuarioId": 8,
+    "Username": "programador6@sypsolutions.com",
+    "Contrasena": "1",
+    "PasswordHash": "",
+    "PasswordSalt": "",
+    "Perfil": null,
+    "PerfilId": 1,
+    "Estado": null,
+    "EstadoId": 1,
+    "FechaIngreso": "2022-01-01T00:00:00-05:00",
+    "FechaRetiro": "2900-01-01T00:00:00-05:00",
+    "Firma": null,
+    "FechaCreacionContraseña": "2022-01-01T00:00:00-05:00",
+    "FechaBloqueo": "2900-01-01T00:00:00-05:00",
+    "Persona": {
+        "PersonaId": 22,
+        "TipoDocumentoId": 1,
+        "Identificacion": "76099855",
+        "PrimerNombre": "Juan",
+        "SegundoNombre": "Alberto",
+        "ApellidoPaterno": "Gomez",
+        "ApellidoMaterno": "Pérez",
+        "Numerodocumento": "76099855",
+        "FechaNacimiento": "0001-01-01T12:00:00+00:00",
+        "SexoId": 2,
+        "Direccion": "Cra",
+        "TelefonoFijo": "123",
+        "TelefonoCelular": "321",
+        "PaisId": 90,
+        "DepartamentoId": 5,
+        "CiudadId": 1,
+        "Ciudad": {
+            "CiudadId": 1,
+            "Divipo": "5001000",
+            "Departamento": {
+                "DepartamentoId": 5,
+                "Divipo": null,
+                "Nombre": "ANTIOQUIA"
+            },
+            "DepartamentoId": 5,
+            "Nombre": "MEDELLIN"
+        },
+        "DireccionResidencia": "cra2",
+        "DireccionTrabajo": "cra3",
+        "CorreoElectronico": "fake@fak",
+        "GrupoSanguineo": "AB",
+        "FactorRh": "-",
+        "FechaExpedicion": "0001-01-01T12:00:00+00:00",
+        "TipoDocumento": {
+            "TipoDocumentoId": 1,
+            "Codigo": "CC",
+            "CodigoIntegracion": "C",
+            "Nombre": "Cédula Ciudadanía",
+            "Modulo": 1
+        },
+        "Sexo": {
+            "SexoId": 2,
+            "Codigo": "M",
+            "CodigoIntegracion": "M",
+            "Nombre": "MASCULINO",
+            "Modulo": 2
+        }
+    },
+    "PersonaId": 22,
+    "Cliente": null,
+    "ClienteId": 2,
+    "HasCompanyIdProperty": false
+}

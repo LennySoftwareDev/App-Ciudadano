@@ -1,0 +1,78 @@
+    {
+        "evidences": null,
+        "comparendo": {
+            "comparendoId": 123,
+            "numero": "33",
+            "direccion": "Prueba fake by Michael",
+            "localidad": "Calle 8 NO",
+            "fechaHoraInfraccion": "2022-02-03T11:48:48-05:00",
+            "fechaHoraRegistro": "0001-01-01T00:00:00+00:00",
+            "valor": 0,
+            "placa": "BBB111",
+            "codigo": "D4",
+            "estado": {
+                "estadoId": 2,
+                "nombre": "Estado_2_Fake",
+                "descripcion": "Prueba 2"
+            },
+            "infractor": {
+                "personaId": 22,
+                "identificacion": "76099855",
+                "primerNombre": "Juan",
+                "segundoNombre": "Alberto",
+                "apellidoPaterno": "Gomez",
+                "apellidoMaterno": "Pérez",
+                "numerodocumento": "76099855",
+                "direccion": "Cra",
+                "telefonoFijo": "123",
+                "telefonoCelular": "321",
+                "direccionResidencia": "cra2",
+                "correoElectronico": "fake@fak"
+            },
+          
+            "tipoComparendo": {
+                "trafficTicketId": 1,
+                "nombre": "Transito",
+                "descripcion": "Comparendos de tránsito"
+            },
+            "infraccion": {
+                "infraccionId": 211,
+                "infractionCode": 1,
+                "cantidadSDLV": 4,
+                "descripcion": "No transitar por la derecha de la vía.",
+                "active": true,
+                "codigoAnterior": null,
+                "codigoNuevo": "A1",
+                "fechaDesde": null,
+                "fechaHasta": null,
+                "reportSimit": true,
+                "isRelatedToSpeed": true,
+                "ciudadId": null,
+                "ciudad": null,
+                "nuevoCodigoCorregido": "A01",
+                "valorInfraccion": null,
+                "trafficTicketType": null
+
+            },           
+            "propietario": {
+                "personaId": 22,
+                "identificacion": "76099855",
+                "primerNombre": "Juan",
+                "segundoNombre": "Alberto",
+                "apellidoPaterno": "Gomez",
+                "apellidoMaterno": "Pérez",
+                "numerodocumento": "76099855",
+                "direccion": "Cra",
+                "telefonoFijo": "123",
+                "telefonoCelular": "321",
+                "direccionResidencia": "cra2",
+                "correoElectronico": "fake@fak"
+        
+            },
+            "observation": "This is test by Michael",
+            "speed": 100,
+            "reportsAlcolemia": false,
+            "alcoholLevel": 60
+        },
+        "signatures": null
+    }

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "443742081795",
+    "project_id": "appciudadano-5443c",
+    "storage_bucket": "appciudadano-5443c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443742081795:android:846e712cba741d8bc68f36",
+        "android_client_info": {
+          "package_name": "app.syp.app_ciudadano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443742081795-9cuq6trm5m6m0g0fq6qh5i8qcs4qakmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhwrs1fm0XiwhLtrPTRSUSaGASB5PT4DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443742081795-9cuq6trm5m6m0g0fq6qh5i8qcs4qakmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443742081795-rvsn8uegdnestqtrrt7ov7mvbtstkjci.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appCiudadano"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443742081795:android:c11cba4809c62b9ec68f36",
+        "android_client_info": {
+          "package_name": "com.example.appciudadano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443742081795-9cuq6trm5m6m0g0fq6qh5i8qcs4qakmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhwrs1fm0XiwhLtrPTRSUSaGASB5PT4DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443742081795-9cuq6trm5m6m0g0fq6qh5i8qcs4qakmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443742081795-rvsn8uegdnestqtrrt7ov7mvbtstkjci.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appCiudadano"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
